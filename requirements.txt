@@ -1,0 +1,4 @@
+# Tested runtime for Python 3.12. cirq-core provides the cirq import.
+cirq-core==1.7.0
+qsimcirq==0.22.1
+numpy==2.5.4

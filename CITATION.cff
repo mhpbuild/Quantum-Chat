@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "Mohon kutip rilis software ini dan makalah superdense coding asli saat memakai simulator pendidikan ini. / Please cite this software release and the original superdense-coding paper when using this educational simulator."
+title: "Quantum Chat: simulator superdense coding lokal / a local superdense-coding simulator"
+type: software
+authors:
+  - name: "Quantum Chat contributors"
+version: 0.1.1
+date-released: 2026-11-16
+license: MIT
+repository-code: "https://github.com/mhpbuild/Quantum-Chat"
+url: "https://github.com/mhpbuild/Quantum-Chat"
+keywords:
+  - superdense coding
+  - quantum information
+  - reproducible simulation
+  - education
